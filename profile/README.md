@@ -3,8 +3,6 @@
 我们正在构建 EVM 和 layer 的一些基础设施，如果您有兴趣可以加入我们，下面是我们的联系方式和各个项目简介
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
-* Twitter: [https://twitter.com/0xsavourlabs](https://twitter.com/0xsavourlabs)
-* SavourLabs Dev Group Email: [0xsavourlabs@gmail.com](0xsavourlabs@gmail.com)
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
 * 微信 ID: LGZAXE
 
