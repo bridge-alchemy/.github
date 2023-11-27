@@ -15,5 +15,4 @@
 - [wallet-sdk](https://github.com/cornerstone-labs/wallet-sdk): 以太坊和 Layer2钱包 sdk。 支持离线地址创建、代币和 nft 离线签名交易、l1->l2充值、l2->L1提现。
 - [acorus-bridge](https://github.com/cornerstone-labs/acorus-bridge): 所有 layer2 的跨链桥 UI
 - [ethereum-event-watcher](https://github.com/cornerstone-labs/ethereum-event-watcher): 合约事件索引器
-- [selaginella](https://github.com/cornerstone-labs/selaginella) 中心化钱包扫链充值，提现，归集和转冷
-
+- [selaginella](https://github.com/cornerstone-labs/selaginella) l2<->l2 bridge relayer
