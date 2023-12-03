@@ -3,9 +3,7 @@
 We are building some infrastructure for EVM and layer2. If you are interested, you can join us. our contact information and project introduction as follow.
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
-* Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
-* wechat ID: LGZAXE
-
+* Telegram [https://t.me/+F2a3OS2rrGBlOGFl](https://t.me/+F2a3OS2rrGBlOGFl)
 
 ## Repositories
 
